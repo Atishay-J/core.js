@@ -45,10 +45,7 @@ import { Octokit } from "https://cdn.skypack.dev/@octokit/core";
 Node
 </th><td>
 
-Install with 
-```
-npm install @octokit/core 
-```
+Install with    <code>npm install @octokit/core</code>
 
 ```js
 const { Octokit } = require("@octokit/core");
